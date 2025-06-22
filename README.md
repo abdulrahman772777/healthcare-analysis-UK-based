@@ -2,8 +2,8 @@
 
 This repository showcases an interactive *Healthcare Analysis Dashboard* created using *Power BI*, focused on analyzing healthcare billing, cost metrics, insurance coverage, and patient satisfaction across multiple UK cities.
 
-![Dashboard Preview 1](./EBEA0020-B043-4511-9371-CE28BE699237.jpeg)
-![Dashboard Preview 2](./7907CE12-A4A1-4C36-80EB-F9292DEC3CEA.jpeg)
+![Dashboard Preview 1] (WhatsApp Image 2025-06-22 at 18.15.23_4b7cf65f.jpg)
+![Dashboard Preview 2](WhatsApp Image 2025-06-22 at 18.15.55_8129cd2f.jpg)
 
 ## 📊 Project Overview
 
